@@ -9,7 +9,7 @@ The **n8n Workflow Auto-Saver** is a Chrome extension designed to improve your e
 1. Download the extension files or clone this repository.
 2. Go to `chrome://extensions/` in your Chrome browser.
 3. Enable "Developer mode" in the top right corner.
-4. Click "Load unpacked" and select the directory containing the extension files.
+4. Click "Load unpacked" and select the directory named 'app' that contains the extension files.
 
 ## Usage
 
